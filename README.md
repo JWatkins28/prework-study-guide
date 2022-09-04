@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Study Guide, the notes in each section can be reviewed. If you need ideas on what to study, you can open the Chrome DevTools by right clicking and choosing "Inspect". In the console you should see a list of topics as well as a suggestion for which one to study more of first.
+To use this Study Guide, the notes in each section can be reviewed. If you need ideas on what to study, you can open the Chrome DevTools by right clicking and choosing "Inspect". In the console you should see a list of topics as well as a suggestion for which one to study more of first. Refresh to choose a new topic!
 
 ## Credits
 
